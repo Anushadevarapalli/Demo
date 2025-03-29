@@ -1,0 +1,24 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "This is namaste react",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anushadevarapalli/Demo.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "anushadevarapalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anushadevarapalli/Demo/issues"
+  },
+  "homepage": "https://github.com/Anushadevarapalli/Demo#readme",
+  "devDependencies": {
+    "parcel": "^2.14.3"
+  }
+}
